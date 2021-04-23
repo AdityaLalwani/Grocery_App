@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527697641932",
+    "firebase_url": "https://trolleygoapp.firebaseio.com",
+    "project_id": "trolleygoapp",
+    "storage_bucket": "trolleygoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527697641932:android:701fb7571d32eb2f589d69",
+        "android_client_info": {
+          "package_name": "rhythm.com.trolleygo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527697641932-j26nr3k08vt1eed9e5u5qefanjts0pdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-IBxaOPG8vBvludeJsXoDE0oW3p61QMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527697641932-j26nr3k08vt1eed9e5u5qefanjts0pdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
